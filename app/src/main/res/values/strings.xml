@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Igisoro</string>
+    <string name="app_title">IGISORO</string>
+    <string name="app_subtitle">Umukino w\'Ubwenge • Royal Strategy of Rwanda</string>
+
+    <!-- Mode Selection -->
+    <string name="mode_pvp">Pass &amp; Play (2P)</string>
+    <string name="mode_ai">Vs Umuhanga (AI)</string>
+    <string name="difficulty_label">AI Mastery Level</string>
+    <string name="diff_easy">Easy • Aboroheye</string>
+    <string name="diff_medium">Medium • Iringaniye</string>
+    <string name="diff_hard">Master • Umuhanga</string>
+
+    <!-- Buttons -->
+    <string name="btn_play">GUKINA • START MATCH</string>
+    <string name="btn_rules">Amategeko (Rules)</string>
+    <string name="btn_settings">Igenamiterere (Settings)</string>
+    <string name="btn_new_game">Umukino Mushya</string>
+    <string name="btn_undo">Subira Inyuma (Undo)</string>
+    <string name="btn_capture">KURASA (Capture)</string>
+    <string name="btn_pass">NDAHISE (Pass)</string>
+    <string name="btn_retreat">NDAKUBYE (Retreat)</string>
+
+    <!-- Game Indicators -->
+    <string name="turn_p1">Umukinnyi wa 1 (South)</string>
+    <string name="turn_p2">Umukinnyi wa 2 (North)</string>
+    <string name="turn_ai">Umuhanga (AI) is thinking…</string>
+    <string name="seeds_in_hand">Inka mu ntoki (Hand): %1$d</string>
+    <string name="winner_p1">Umukinnyi wa 1 Wins! Watsinze!</string>
+    <string name="winner_p2">Umukinnyi wa 2 Wins! Watsinze!</string>
+    <string name="winner_ai">Umuhanga (AI) Wins! Watsinzwe!</string>
+
+    <!-- Settings -->
+    <string name="setting_sounds">Wood &amp; Seed Sound Effects (Amajwi)</string>
+    <string name="setting_rotate">Auto-Rotate Board for Player 2 (PvP)</string>
+    <string name="setting_traditional">Traditional Ndahise / Ndakubye Rules</string>
+    <string name="setting_speed">Sowing Animation Speed (Umuvuduko)</string>
+
+    <!-- Cultural Banners & Dialogs -->
+    <string name="ndakubye_notif">Ndakubye! Opponent retreated front-row seeds to the back row.</string>
+    <string name="capture_available_title">Kurasa! Capture Opportunity</string>
+    <string name="capture_available_desc">Your final seed landed in an occupied inner pit directly opposite two occupied opponent pits. Do you want to capture (Kurasa) or pass (Ndahise)?</string>
+
+    <!-- Proverbs -->
+    <string name="proverb_1">“Ubwenge burarahurwa.”\nWisdom is kindled from one mind to another.</string>
+    <string name="proverb_2">“Uhagaraye amaguru abiri abona kure.”\nOne who plans with foresight sees far ahead.</string>
+    <string name="proverb_3">“Umutwe umwe ntiwigira inama.”\nA single head alone cannot take full counsel.</string>
+
+    <!-- Rules/Tutorial -->
+    <string name="rules_title">Amategeko y\'Igisoro</string>
+    <string name="rules_sowing_title">1. Kubiba (Counter-Clockwise Sowing)</string>
+    <string name="rules_sowing_desc">Each player commands 2 rows of 8 pits (16 pits total) starting with 32 Inka (seeds)—4 in each back-row pit. Select any pit on your side containing at least 2 seeds and sow them one by one counter-clockwise around your 16 pits. Pits with only 1 seed cannot initiate a move.</string>
+    <string name="rules_relay_title">2. Gukomeza (Relay Sowing)</string>
+    <string name="rules_relay_desc">If the final seed in your hand drops into an already occupied pit (without triggering a capture), you immediately scoop up all seeds from that pit and continue sowing in a relay loop. Your turn only ends when your final seed drops into an empty pit.</string>
+    <string name="rules_capture_title">3. Kurasa (Double-Row Capture)</string>
+    <string name="rules_capture_desc">If your last seed lands in an occupied pit in your inner row AND both of your opponent\'s opposite pits in that same column contain at least 1 seed, you capture all seeds from both opponent pits! You immediately resow the captured seeds starting from the pit where the capturing lap began.</string>
+    <string name="rules_traditional_title">4. Ndahise &amp; Ndakubye (Tactical Pass &amp; Retreat)</string>
+    <string name="rules_traditional_desc">In traditional Rwandan play, capturing is optional. If you decline a capture by declaring “Ndahise” (I pass), your opponent may respond “Ndakubye” (I retreat), immediately moving their front-row seeds in that column into their back-row pit so the column can no longer be captured.</string>
+</resources>

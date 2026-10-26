@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Royal Gold Diamond -->
+    <path
+        android:fillColor="#E5A93B"
+        android:pathData="M54,18 L90,54 L54,90 L18,54 Z" />
+    <!-- Middle Crimson Diamond -->
+    <path
+        android:fillColor="#C83E2B"
+        android:pathData="M54,24 L84,54 L54,84 L24,54 Z" />
+    <!-- Inner Obsidian Diamond -->
+    <path
+        android:fillColor="#0E0C0A"
+        android:pathData="M54,33 L75,54 L54,75 L33,54 Z" />
+    <!-- Center Ivory Accent Diamond -->
+    <path
+        android:fillColor="#FAF6F0"
+        android:pathData="M54,42 L66,54 L54,66 L42,54 Z" />
+    <!-- Center Dark Core -->
+    <path
+        android:fillColor="#0E0C0A"
+        android:pathData="M54,47 L61,54 L54,61 L47,54 Z" />
+</vector>
